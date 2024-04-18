@@ -77,6 +77,8 @@ In the accompanying video `ExampleDemonstration.mp4`, we present a detailed walk
 
 This case study is an exact representation of the system's operation as described in **Section 4** of the article, designed to enhance your understanding of how the system works. 
 
+> ⚠ Note: If you are using the anonymous GitHub repository, the video may **not support online preview**. Please switch to the video file and **click the download button** in the upper right corner.
+
 ## Comparison
 
 The traditional approach mainly uses a full storage strategy. PartitionChain proposed an RS encoding scheme, but the query efficiency is low. Our hierarchical classification storage solves these two problems, with improvements in node storage overhead and query space.
