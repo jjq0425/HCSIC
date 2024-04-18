@@ -87,7 +87,7 @@ At the same time, we have constructed a new reputation value function to elect l
 
 We gratefully thank the authors from [reedsolo](https://pypi.org/project/reedsolo/) for open-sourcing their code.
 
-We would like to thank the reviewers for their careful reading and comments on open source code, in order to facilitate the better presentation of our paper.
+We would like to thank the reviewers for their careful reading and comments on our manuscript, in order to facilitate the better presentation of our paper.
 
 The project is funded in part by the National Science Foundation of China (Grant No. 62071111) and the Natural Science Foundation of Xinjiang, China (Grant No. 2023D01A63).
 
