@@ -71,6 +71,12 @@ python consensus.py
 
 Each command line is independent, and you can run each line separately.
 
+## Example Demonstration (Animation slide)
+
+In the accompanying video `ExampleDemonstration.mp4`, we present a detailed walk-through of the entire workflow using the example of "Fire Alarm and Evidence Storage." 
+
+This case study is an exact representation of the system's operation as described in **Section 4** of the article, designed to enhance your understanding of how the system works. 
+
 ## Comparison
 
 The traditional approach mainly uses a full storage strategy. PartitionChain proposed an RS encoding scheme, but the query efficiency is low. Our hierarchical classification storage solves these two problems, with improvements in node storage overhead and query space.
