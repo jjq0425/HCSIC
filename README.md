@@ -82,3 +82,13 @@ The traditional approach mainly uses a full storage strategy. PartitionChain pro
 At the same time, we have constructed a new reputation value function to elect leaders more fairly, making it motivational, dynamic, and fault-tolerant. Its GINI coefficient (which measures the degree of decentralization) is relatively low.
 
 ![img](./README_IMG/GINI.png)
+
+## Acknowledgements
+
+We gratefully thank the authors from [reedsolo](https://pypi.org/project/reedsolo/) for open-sourcing their code.
+
+We would like to thank the reviewers for their careful reading and comments on open source code, in order to facilitate the better presentation of our paper.
+
+The project is funded in part by the National Science Foundation of China (Grant No. 62071111) and the Natural Science Foundation of Xinjiang, China (Grant No. 2023D01A63).
+
+We appreciate Midea Group's support for this project.
