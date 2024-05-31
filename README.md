@@ -2,7 +2,7 @@
 
 Official code for [Hierarchical Classified Storage and Incentive Consensus Scheme for Building IoT under Blockchain](https://github.com/jjq0425/HCSIC)
 
-Our paper: [Hierarchical Classified Storage and Incentive Consensus Scheme for Building IoT under Blockchain](https://doi.org/10.1016/j.jksuci.2024.102075)
+Our paper: [https://doi.org/10.1016/j.jksuci.2024.102075](https://doi.org/10.1016/j.jksuci.2024.102075)
 
 > Anonymous code repository（ https://anonymous.4open.science/r/HCSIC ) is the same as that of this code repository. Anonymous code repository is only used for double blind agreement during review and will be redirected to this warehouse in June (or earlier).
 
