@@ -1,6 +1,10 @@
 # HCSIC: Hierarchical Classified Storage and Incentive Consensus Scheme for Building IoT under Blockchain
 
-Official code for [Hierarchical Classified Storage and Incentive Consensus Scheme for Building IoT under Blockchain](https://anonymous.4open.science/r/HCSIC/)
+Official code for [Hierarchical Classified Storage and Incentive Consensus Scheme for Building IoT under Blockchain](https://github.com/jjq0425/HCSIC)
+
+Our paper: [Hierarchical Classified Storage and Incentive Consensus Scheme for Building IoT under Blockchain](https://doi.org/10.1016/j.jksuci.2024.102075)
+
+> Anonymous code repository（ https://anonymous.4open.science/r/HCSIC ) is the same as that of this code repository. Anonymous code repository is only used for double blind agreement during review and will be redirected to this warehouse in June (or earlier).
 
 ## Abstract
 
@@ -98,3 +102,21 @@ We gratefully thank the authors from [reedsolo](https://pypi.org/project/reedsol
 We would like to thank the reviewers for their careful reading and comments on our manuscript, in order to facilitate the better presentation of our paper.
 
 The project is funded in part by the National Science Foundation of China (Grant No. 62071111) and the Natural Science Foundation of Xinjiang, China (Grant No. 2023D01A63).
+
+## Cite our article
+
+If you are interested in our project, you can cite our article.
+
+```
+@article{WU2024102075,
+  title = {Hierarchical classified storage and incentive consensus scheme for building IoT under blockchain},
+  journal = {Journal of King Saud University - Computer and Information Sciences},
+  pages = {102075},
+  year = {2024},
+  issn = {1319-1578},
+  doi = {https://doi.org/10.1016/j.jksuci.2024.102075},
+  url = {https://www.sciencedirect.com/science/article/pii/S1319157824001642},
+  author = {Xiaohua Wu and Jinqian Jiang and Xiaoyu Li and Jun Cheng and Tao Meng},
+}
+```
+
